@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Això es guarda en un fitxer" > fitxer.txt
